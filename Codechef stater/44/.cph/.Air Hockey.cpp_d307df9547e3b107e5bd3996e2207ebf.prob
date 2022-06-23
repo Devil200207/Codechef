@@ -1,0 +1,1 @@
+{"name":"Local: Air Hockey","url":"d:\\Codechef stater\\44\\Air Hockey.cpp","tests":[{"id":1655908422509,"input":"4\n0 0\n2 5\n5 2\n4 3\n","output":"7\n2\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\44\\Air Hockey.cpp","group":"local","local":true}

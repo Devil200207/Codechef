@@ -1,0 +1,1 @@
+{"name":"Local: Self Defence Training ","url":"d:\\Codechef stater\\28\\Self Defence Training .cpp","tests":[{"id":1646231547948,"input":"3\n3\n15 23 65\n3\n15 62 16\n2\n35 9","output":"2\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\28\\Self Defence Training .cpp","group":"local","local":true}

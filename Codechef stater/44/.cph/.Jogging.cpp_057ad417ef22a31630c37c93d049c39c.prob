@@ -1,0 +1,1 @@
+{"name":"Local: Jogging","url":"d:\\Codechef stater\\44\\Jogging.cpp","tests":[{"id":1655911594799,"input":"3\n1 2\n2 1\n12548 1","output":"2\n2\n588809226"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\44\\Jogging.cpp","group":"local","local":true}

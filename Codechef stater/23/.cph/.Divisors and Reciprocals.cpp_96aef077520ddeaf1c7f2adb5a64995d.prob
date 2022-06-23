@@ -1,0 +1,1 @@
+{"name":"Local: Divisors and Reciprocals","url":"d:\\Codechef cook-off 2022\\stater\\Divisors and Reciprocals.cpp","tests":[{"id":1643815956575,"input":"2\n4 4 3\n4 1 1","output":"3\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef cook-off 2022\\stater\\Divisors and Reciprocals.cpp","group":"local","local":true}

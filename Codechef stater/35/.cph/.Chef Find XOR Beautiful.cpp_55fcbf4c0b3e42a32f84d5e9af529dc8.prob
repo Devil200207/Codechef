@@ -1,0 +1,1 @@
+{"name":"Local: Chef Find XOR Beautiful","url":"d:\\Codechef stater\\35\\Chef Find XOR Beautiful.cpp","tests":[{"id":1650470404915,"input":"2\n4\n1 2 3 1\n1\n3\n0 0 0\n21","output":"10\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\35\\Chef Find XOR Beautiful.cpp","group":"local","local":true}

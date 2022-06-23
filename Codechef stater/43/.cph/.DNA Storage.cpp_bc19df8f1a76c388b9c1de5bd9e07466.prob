@@ -1,0 +1,1 @@
+{"name":"Local: DNA Storage","url":"d:\\Codechef stater\\43\\DNA Storage.cpp","tests":[{"id":1655303849614,"input":"4\n2\n00\n4\n0011\n6\n101010\n4\n1001","output":"A\nAG\nCCC\nCT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\43\\DNA Storage.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Control the Pollution ","url":"d:\\Codechef stater\\25\\Control the Pollution .cpp","tests":[{"id":1645030102527,"input":"3\n9 40 8\n15 20 20\n105 80 10","output":"24\n20\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\25\\Control the Pollution .cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: First and Last","url":"d:\\Codechef cook-off 2022\\june\\First and Last.cpp","tests":[{"id":1654440168237,"input":"3\n2\n5 8\n3\n5 10 15\n4\n4 4 4 4\n","output":"13\n25\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef cook-off 2022\\june\\First and Last.cpp","group":"local","local":true}

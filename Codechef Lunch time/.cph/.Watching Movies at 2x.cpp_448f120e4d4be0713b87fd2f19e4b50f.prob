@@ -1,0 +1,1 @@
+{"name":"Local: Watching Movies at 2x","url":"d:\\Codechef Lunch time\\Watching Movies at 2x.cpp","tests":[{"id":1646149016310,"input":"100 20","output":"90"},{"id":1646149021420,"input":"50 24","output":"38"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef Lunch time\\Watching Movies at 2x.cpp","group":"local","local":true}

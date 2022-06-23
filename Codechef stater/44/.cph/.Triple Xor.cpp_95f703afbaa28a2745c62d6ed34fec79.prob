@@ -1,0 +1,1 @@
+{"name":"Local: Triple Xor","url":"d:\\Codechef stater\\44\\Triple Xor.cpp","tests":[{"id":1655913389450,"input":"3\n2 1\n3 0\n9 100","output":"6\n42\n260610"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\44\\Triple Xor.cpp","group":"local","local":true}

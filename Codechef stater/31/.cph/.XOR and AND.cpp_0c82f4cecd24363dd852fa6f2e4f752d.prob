@@ -1,0 +1,1 @@
+{"name":"Local: XOR and AND","url":"d:\\Codechef stater\\31\\XOR and AND.cpp","tests":[{"id":1648053266238,"input":"2\n4\n1 1 2 3\n4\n1 2 3 4","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\31\\XOR and AND.cpp","group":"local","local":true}

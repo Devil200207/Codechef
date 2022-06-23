@@ -1,0 +1,1 @@
+{"name":"Local: Decomposition Reaction","url":"d:\\Codechef stater\\29\\Decomposition Reaction.cpp","tests":[{"id":1646845071130,"input":"4 2\n5 10 12 2\n1 2\n3 2 4 3\n3 1\n2 4","output":"0\n25\n0\n66"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\29\\Decomposition Reaction.cpp","group":"local","local":true}

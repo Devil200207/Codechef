@@ -1,0 +1,1 @@
+{"name":"Local: Fixed Weight","url":"d:\\Codechef cook-off 2022\\Febuary\\Fixed Weight.cpp","tests":[{"id":1646749480767,"input":"4\n3 2\n3 5\n5 6\n4 10","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef cook-off 2022\\Febuary\\Fixed Weight.cpp","group":"local","local":true}

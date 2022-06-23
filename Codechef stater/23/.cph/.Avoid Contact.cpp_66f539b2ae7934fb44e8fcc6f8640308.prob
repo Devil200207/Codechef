@@ -1,0 +1,1 @@
+{"name":"Local: Avoid Contact","url":"d:\\Codechef cook-off 2022\\stater\\Avoid Contact.cpp","tests":[{"id":1643813218166,"input":"3\n4 0\n5 3\n3 3","output":"4\n8\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef cook-off 2022\\stater\\Avoid Contact.cpp","group":"local","local":true}

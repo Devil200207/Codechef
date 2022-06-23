@@ -1,0 +1,1 @@
+{"name":"Local: Plusle and Minun on Array ","url":"d:\\Codechef stater\\29\\Plusle and Minun on Array .cpp","tests":[{"id":1646838177127,"input":"2\n2\n10 -10\n7\n-3 -2 -1 0 1 2 3","output":"0\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\29\\Plusle and Minun on Array .cpp","group":"local","local":true}

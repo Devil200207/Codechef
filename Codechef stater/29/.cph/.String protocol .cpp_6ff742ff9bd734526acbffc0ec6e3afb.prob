@@ -1,0 +1,1 @@
+{"name":"Local: String protocol ","url":"d:\\Codechef stater\\29\\String protocol .cpp","tests":[{"id":1646836520697,"input":"2\n5\ncbcdc\n6\naabeee","output":"5\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codechef stater\\29\\String protocol .cpp","group":"local","local":true}
